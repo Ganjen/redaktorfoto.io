@@ -1,0 +1,19 @@
+h1,h2 {
+  font-family: Tacoma;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+}
+body {
+  font-size: 16px; 
+  background-color: lightblue;
+}
+canvas {
+  width: 600px;
+  height: auto;
+  border: 1px solid black;
+}
+input {
+  font-size: 14px;
+}
