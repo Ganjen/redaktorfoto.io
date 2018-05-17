@@ -1,0 +1,2 @@
+# redaktorfoto.io
+Testing page
